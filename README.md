@@ -26,11 +26,6 @@ Después de cada aplicación se realizará una sección de pruebas.
     Utilizar características actuales de JavaScript en navegadores web que no soportan esa característica.
     No tenemos que preocuparnos de la compatibilidad con los navegadores.
 
-    ```javascript
-    //BABEL
-    const suma = `1 + 1 = ${ 1 + 1 }`;
-    ```
 
-- JSX (JS + XML)
+[CreateReactApp](https://create-react-app.dev)
 
-    
